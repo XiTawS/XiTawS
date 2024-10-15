@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xitaws&label=Profile%20views&color=0e75b6&style=flat" alt="xitaws" /> </p>
 
-- 🔭 I’m currently working on **Project OSINT**
+- 🔭 I’m currently working on **Project Tool OSINT**
 
 - 📫 How to reach me **maillard.leo19@gmail.com**
 
